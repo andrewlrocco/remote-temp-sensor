@@ -1,9 +1,9 @@
 # STM32CubeIDE project files
-/.cproject
-/.project
-/.settings/
-Debug/
-Release/
+**/.cproject
+**/.project
+**/.settings/
+**/Debug/
+**/Release/
 *.launch
 
 # OS generated files
