@@ -1,0 +1,22 @@
+# STM32CubeIDE project files
+/.cproject
+/.project
+/.settings/
+Debug/
+Release/
+*.launch
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# Build artifacts
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+*.axf
